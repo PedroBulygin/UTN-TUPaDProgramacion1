@@ -1,0 +1,4 @@
+Bateria, 200, 4
+Camara, 500, 5
+Celular, 1000, 10
+carne,500,90
